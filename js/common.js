@@ -28,7 +28,7 @@ window.basic = {
     "kakao": {
         "description": "특별한 날, 소중한 시간을\n함께해주셔서 감사드립니다.",
         "button": "모바일 감사장 보기",
-        "img": "https://drive.google.com/u/0/drive-viewer/AKGpihYn4NNiGJedWj8hufJ2-NgmEVRbh48HnfY242wUPsTsmhDLk2UUvsnUYv7zYyKsjNDsV2au1aBppb86DcOZoLzTDchAr_hQ4lg=s1600-rw-v1"
+        "img": "https://drive.google.com/u/0/drive-viewer/AKGpihb2nvgdiv-xVcSQldNZkmvzCy1VvbP-5nVef_o5NvK7W5AG09xmzVD3XkFjzawz2UCtecQqMzE6yu6RuBbKkGlxTSJVoITfGAI=s1600-rw-v1"
     },
     "info": {
         "greeting": "저희 자녀의 결혼식에\n" +
